@@ -1,0 +1,7 @@
+/data
+/video_cache
+.DS_Store
+*.json
+.cache
+/*.pth
+*.pyc
